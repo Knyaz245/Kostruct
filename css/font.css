@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Open Sans Regular';
+    src: url(/kostruct/fonts/OpenSans-Regular.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Open Sans ExtraBold';
+    src: url(/kostruct/fonts/OpenSans-ExtraBold.ttf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'Open Sans SemiBold';
+    src: url(/kostruct/fonts/OpenSans-SemiBold.ttf);
+    font-weight: 700;
+}
+
